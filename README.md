@@ -1,9 +1,9 @@
 # BME 450 Final Project
-# Title
+## Title
 Prediction of Breast Cancer Stage from Transcriptomic Data
 
 ## Team members
-Kyle Mundy (kemundy), NameB (GitHubUserB)
+Kyle Mundy (kemundy), Jacob Nemivant (GitHubUserB)
 
 ## Project description
 Max ½ page. Include some information on:
